@@ -1,0 +1,27 @@
+#myCanvas {
+    border-style:ridge;
+    border-color:rgb(0, 0, 0);
+    border-width:7px;
+    background-color: white;
+}
+body {
+    background-image: url("food.png");
+}
+h1 {
+    background-color:black;
+    color:white;
+    width:500px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size:40px;
+}
+h3 {
+    background-color:black;
+    color:white;
+    width:420px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#tray {
+    transform: translate(50px,100px);
+}
